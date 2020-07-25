@@ -1,4 +1,5 @@
 import React from "react";
+import "../css/todo.css";
 
 const Todo = (props) => {
   return (

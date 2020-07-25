@@ -1,7 +1,7 @@
 export let initialState = {
   todo: [
     {
-      item: "Learn about reducers",
+      item: "Steps to create Reducers",
       completed: false,
       id: Date.now(),
     },
