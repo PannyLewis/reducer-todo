@@ -1,4 +1,4 @@
-export let initialObject = {
+export let initialState = {
   todo: [
     {
       item: "Learn about reducers",
